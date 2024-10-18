@@ -1,0 +1,28 @@
+import { Filmes } from "../tipos/TypesFilmes";
+
+
+export const FilmesList: Filmes[]  = [
+    { id: 1, linkImg: 'https://play-lh.googleusercontent.com/CypRWZnmTZ5xs-N8boVzBgIfC4fh4Jjqk8-hhPl-Pb3MUMBp-YFXCztqO3-ic_y0m3w', tituloFilme: 'Terror em Silent Hill', linkVideo: 'https://redecanais.ec/terror-em-silent-hill-dublado-2006-1080p_8267af754.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+    { id: 2,linkImg: 'https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/series/imagens/Poster_startrek_2009.jpg', tituloFilme: 'Star Trek', linkVideo: 'https://redecanais.ec/star-trek-sem-fronteiras-dublado-2016-1080p_54c6e75f2.html'},
+]
